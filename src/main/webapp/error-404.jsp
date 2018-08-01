@@ -12,7 +12,7 @@
 </head>
 <body>
 <a href="index.jsp">Navbar</a>
-<a href="display">Home</a><br>
+<a href="login.jsp">login</a><br>
 404
 </body>
 </html>
